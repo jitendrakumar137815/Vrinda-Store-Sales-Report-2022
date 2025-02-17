@@ -5,3 +5,5 @@ load data into excel of vrinda Store for the year 2022.
 # 2.data cleaning:
 Using Excel to clean the data
 /njitu ch sed-'s oudhary
+% SKILLS
+\section{Skills}
