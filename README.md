@@ -6,4 +6,7 @@ vrinda store wants to create an annual sales report for the year 2022. So that,t
 load data into excel of vrinda Store for the year 2022.
 #2.data cleaning:
 using Excel to clean the data
-
+% HEADING
+\begin{center}
+    \textbf{\Huge \scshape Narendra Kumar} \\ \vspace{8pt}
+    \small 
