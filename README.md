@@ -7,3 +7,4 @@ Using Excel to clean the data
 /njitu ch sed-'s oudhary
 % SKILLS
 \section{Skills}
+https://github.com/Jgithub02/Vrinda-Store-Sales-Report-2022-.git
