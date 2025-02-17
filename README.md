@@ -3,6 +3,6 @@ vrinda store wants to create an annual sales report for the year 2022. So that,t
 # 1 data loading into Excel:
 load data into excel of vrinda Store for the year 2022.
 # 2.data cleaning:
-Using Excel to clean the data
+Using Excel to clean the data.
 
-![Uploading WhatsApp Image 2025-02-17 at 17.54.05_0f4a4dd1.jpg…]()
+
