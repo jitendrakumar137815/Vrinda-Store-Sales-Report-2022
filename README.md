@@ -3,5 +3,5 @@ vrinda store wants to create an annual sales report for the year 2022. So that,t
 # 1 data loading into Excel:
 load data into excel of vrinda Store for the year 2022.
 # 2.data cleaning:
-using Excel to clean the data
-
+Using Excel to clean the data
+/n jitu choudhary
