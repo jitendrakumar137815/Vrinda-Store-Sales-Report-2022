@@ -9,8 +9,11 @@ We have 'Men' and 'M' in our data for the Men ,So using 'replace' fixed it. Andt
 TO clean the 'Qty' column use 'replace'.
 
 
+    
+ 
 
   
   
   
-  ![Uploading WhatsApp Image 2025-02-17 at 17.54.05_0f4a4dd1.jpg…]()
+  
+![Jgithub02_Vrinda-Store-Sales-Report-2022- — Mozilla Firefox 2_17_2025 11_28_36 PM (1)](https://github.com/user-attachments/assets/6e257851-4023-4922-8876-ea49050b16c8)
