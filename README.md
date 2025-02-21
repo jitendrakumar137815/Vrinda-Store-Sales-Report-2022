@@ -13,4 +13,4 @@ TO clean the 'Qty' column use 'replace'.
   
   
   
-  ![Uploading Jgithub02_Vrinda-Store-Sales-Report-2022- — Mozilla Firefox 2_17_2025 11_28_36 PM (1).png…]()
+  ![Uploading WhatsApp Image 2025-02-17 at 17.54.05_0f4a4dd1.jpg…]()
