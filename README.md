@@ -5,8 +5,9 @@ load data into excel of vrinda Store for the year 2022.
 # 2.data cleaning:
 Using Excel to clean the data.
 
-We have 'Men' and 'M' in our data for the Men ,So using 'replace' fixed it. Andthe same for 'Women' and 'W'.
+We have 'Men' and 'M' in our data for the Men ,So using 'replace' fixed it. Andthe same for 'Women' and 'W'.  
 TO clean the 'Qty' column use 'replace'.
 
 
-![dark-gradient(1)](https://github.com/user-attachments/assets/379084f1-1ebf-4a60-896c-9857adac7090)
+![Uploading Jgithub02_Vrinda-Store-Sales-Report-2022- — Mozilla Firefox 2_17_2025 11_28_36 PM (1).png…]()
+
