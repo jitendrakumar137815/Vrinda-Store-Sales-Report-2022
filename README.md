@@ -23,6 +23,7 @@ TO clean the 'Qty' column use 'replace'.
 
 
 
+![pc 1](https://github.com/user-attachments/assets/6c33d865-1dfe-4199-a587-8dfb82e3e0a9)
 
 
 
