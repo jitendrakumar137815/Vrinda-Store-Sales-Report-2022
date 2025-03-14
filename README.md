@@ -47,7 +47,7 @@ For this insert a Pivot Table and a Pivot Chart.<br>
 
 
 
-5. What are the different order statuses in 2022?
+4. What are the different order statuses in 2022?
 ![6](https://github.com/user-attachments/assets/73512a7c-4912-4e7c-9713-98174e0dc891)
 
 
@@ -72,7 +72,7 @@ Using MS Excel, I created an amazing dashboard to easily analyze the insights of
 
 
 
-#5. Sample Insights:
+# 5. Sample Insights:
 
 Women are more likely to buy compared to men(~ 65%).
 Maharashtra, Karnataka, and Uttar Pradesh are the top 3 states(~35%)
