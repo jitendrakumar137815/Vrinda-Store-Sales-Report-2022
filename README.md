@@ -19,8 +19,11 @@ TO clean the 'Qty' column use 'replace'.
 
 ![pic 3](https://github.com/user-attachments/assets/4b1658a2-9bf0-457a-8979-4ebee733899a)
 
-
-
+Added some new columns using the following formulas,So we can analayze the data easliy.<br>
+1. "Age Group" <br> = IF(E2>=50,"Senior",IF(E2>=30,"Adult,"Teenager")) <br>
+2."Month" <br>
+= TEXT(G4,"mmmm")
+# 3.Data Analysis :
 
 
 
