@@ -4,8 +4,8 @@ vrinda store wants to create an annual sales report for the year 2022. So that,t
 load data into excel of vrinda Store for the year 2022.
 # 2.data cleaning:
 Using Excel to clean the data.
- jitu <br> choudhary
-We have 'Men' and 'M' in our data for the Men ,So using 'replace' fixed it. Andthe same for 'Women' and 'W'.  
+ <br>
+We have 'Men' and 'M' in our data for the Men ,So using 'replace' fixed it. Andthe same for 'Women' and 'W'.   <br>
 TO clean the 'Qty' column use 'replace'.
 
 
