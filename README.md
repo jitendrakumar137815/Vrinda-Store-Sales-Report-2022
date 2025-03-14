@@ -22,9 +22,6 @@ TO clean the 'Qty' column use 'replace'.
 
 
 
-
-
-
 ![pc 1](https://github.com/user-attachments/assets/6c33d865-1dfe-4199-a587-8dfb82e3e0a9)
 
 
@@ -37,6 +34,6 @@ TO clean the 'Qty' column use 'replace'.
 
 
 
-![Screenshot (25)](https://github.com/user-attachments/assets/e3b726b9-ba87-40a2-a87b-06ff09cdf6fd)
+
 
 
