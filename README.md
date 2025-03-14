@@ -32,7 +32,8 @@ For data analysis, we have some sample questions. <br>
 
 
 <br>
-For this insert a Pivot Table and a Pivot Chart.
+For this insert a Pivot Table and a Pivot Chart.<br>
+
 ![pic 4](https://github.com/user-attachments/assets/713b26ad-1ba1-4817-b1d8-b058296ba6e4)
 
    
