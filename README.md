@@ -28,11 +28,12 @@ TO clean the 'Qty' column use 'replace'.
 
 
 
-![Uploading Screenshot (23).png…]()
 
 
 
 
 
+
+![Screenshot (25)](https://github.com/user-attachments/assets/e3b726b9-ba87-40a2-a87b-06ff09cdf6fd)
 
 
