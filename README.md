@@ -20,9 +20,8 @@ TO clean the 'Qty' column use 'replace'.
  
  
 
+![pic 3](https://github.com/user-attachments/assets/4b1658a2-9bf0-457a-8979-4ebee733899a)
 
-
-![pc 1](https://github.com/user-attachments/assets/6c33d865-1dfe-4199-a587-8dfb82e3e0a9)
 
 
 
