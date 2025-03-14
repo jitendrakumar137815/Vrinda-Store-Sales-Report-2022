@@ -28,6 +28,7 @@ TO clean the 'Qty' column use 'replace'.
 
 
 
+![Uploading Screenshot (23).png…]()
 
 
 
