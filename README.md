@@ -14,9 +14,10 @@ TO clean the 'Qty' column use 'replace'.
 
 
 
-![Uploading Jgithub02_Vrinda-Store-Sales-Report-2022- — Mozilla Firefox 2_21_2025 10_11_53 PM.png…]()
 
 
+
+![Jgithub02_Vrinda-Store-Sales-Report-2022- — Mozilla Firefox 2_21_2025 10_11_53 PM](https://github.com/user-attachments/assets/3da78436-2c91-4172-976c-7440bf0b3734)
 
 
 
