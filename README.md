@@ -8,25 +8,17 @@ Using Excel to clean the data.
 We have 'Men' and 'M' in our data for the Men ,So using 'replace' fixed it. Andthe same for 'Women' and 'W'.   <br>
 TO clean the 'Qty' column use 'replace'.
 
-
-    
  
-
-  
-  
-  
-  
-![Jgithub02_Vrinda-Store-Sales-Report-2022- — Mozilla Firefox 2_17_2025 11_28_36 PM (1)](https://github.com/user-attachments/assets/6e257851-4023-4922-8876-ea49050b16c8)
-
-![Jgithub02_Vrinda-Store-Sales-Report-2022- — Mozilla Firefox 2_17_2025 11_28_36 PM (1)](https://github.com/user-attachments/assets/6e257851-4023-4922-8876-ea49050b16c8)
-
-![Jgithub02_Vrinda-Store-Sales-Report-2022- — Mozilla Firefox 2_17_2025 11_28_36 PM (1)](https://github.com/user-attachments/assets/6e257851-4023-4922-8876-ea49050b16c8)
+ 
+ ![Jgithub02_Vrinda-Store-Sales-Report-2022- — Mozilla Firefox 2_17_2025 11_28_36 PM (1)](https://github.com/user-attachments/assets/6e257851-4023-4922-8876-ea49050b16c8)
 
 
 
 
 
-![Jgithub02_Vrinda-Store-Sales-Report-2022- — Mozilla Firefox 2_17_2025 11_28_36 PM (1)](https://github.com/user-attachments/assets/6e257851-4023-4922-8876-ea49050b16c8)
+
+
+
 
 
 
