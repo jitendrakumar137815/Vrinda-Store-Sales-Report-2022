@@ -25,7 +25,16 @@ Added some new columns using the following formulas,So we can analayze the data 
 = TEXT(G4,"mmmm")
 # 3.Data Analysis :
 
+For data analysis, we have some sample questions. <br>
+1. Compare the sales and order using a single chart.
+2. Which month got the the highest sales and order ?
+  
 
+
+<br>
+
+
+   
 
 
 
