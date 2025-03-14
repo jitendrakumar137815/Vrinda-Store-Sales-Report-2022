@@ -55,8 +55,8 @@ For this insert a Pivot Table and a Pivot Chart.<br>
 6.Which channel is contributing to maximum sales? 
 ![10](https://github.com/user-attachments/assets/47964a90-3e40-44c9-80be-da80f433f4a8)
 By using various Pivot Tables and Pivot Charts find out the answers to the above questions
-#4. Vrinda Store Report 2022:
-#Dashboard:
+# 4. Vrinda Store Report 2022:
+# Dashboard:
 Using MS Excel, I created an amazing dashboard to easily analyze the insights of sales of the Vrinda store.
 ![111](https://github.com/user-attachments/assets/e37d9663-af1f-491a-b025-9329e2c51e38)
 
