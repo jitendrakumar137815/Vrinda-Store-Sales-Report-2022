@@ -51,7 +51,7 @@ For this insert a Pivot Table and a Pivot Chart.<br>
 ![6](https://github.com/user-attachments/assets/73512a7c-4912-4e7c-9713-98174e0dc891)
 
 
-5.List of top 5 states contributing to sales.
+5. List of top 5 states contributing to sales.
 ![8](https://github.com/user-attachments/assets/d20dee9d-8c3d-49e5-ae92-6f6fb5788bae)
 
 6.Which channel is contributing to maximum sales? 
