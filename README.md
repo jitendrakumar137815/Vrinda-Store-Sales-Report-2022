@@ -37,15 +37,10 @@ For data analysis, we have some sample questions. <br>
 For this insert a Pivot Table and a Pivot Chart.<br>
 
 ![pic 4](https://github.com/user-attachments/assets/713b26ad-1ba1-4817-b1d8-b058296ba6e4)
-
    
-
-
 3. Who purchased more (Men or Women) in 2022?
     
 ![pic 5](https://github.com/user-attachments/assets/e88b61c9-4a03-41c4-a06b-fba5828882cf)
-
-
 
 4. What are the different order statuses in 2022?
 ![6](https://github.com/user-attachments/assets/73512a7c-4912-4e7c-9713-98174e0dc891)
