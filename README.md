@@ -10,9 +10,9 @@ vrinda store wants to create an annual sales report for the year 2022. So that,t
 and grow more sales in the upcoming years.
 
 # Steps Followed:
-# 1 data loading into Excel: 
+# 1 Data loading into Excel: 
 load data into excel of vrinda Store for the year 2022.
-# 2.data cleaning:
+# 2.Data cleaning:
 Using Excel to clean the data.
  <br>
 We have 'Men' and 'M' in our data for the Men ,So using 'replace' fixed it. Andthe same for 'Women' and 'W'.   <br>
