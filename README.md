@@ -9,7 +9,7 @@
 Vrinda Store wants to create an annual sales report for the year 2022. So that,they can understand their customers <br>
 and grow more sales in the upcoming years.
 
-# Steps Followed:
+# Steps Followed:  
 # 1 Data loading into Excel: 
 load data into excel of vrinda Store for the year 2022.
 # 2.Data cleaning:
